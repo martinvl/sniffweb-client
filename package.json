@@ -4,7 +4,7 @@
   "main": "index.js",
   "dependencies": {
     "socket.io-client": "~1.0.6",
-    "sniffweb-token": "0.1.0-b-1",
+    "sniffweb-token": "martinvl/sniffweb-token",
     "q": "~1.0.1",
     "underscore": "~1.6.0"
   }
